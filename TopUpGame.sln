@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopUpGame", "TopUpGame\TopUpGame.csproj", "{E9942F00-5C3A-42CD-97C8-023830864946}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "GamingXplus", "GamingXplus\GamingXplus.vdproj", "{B953EB40-39DA-4196-90C1-47E589129169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9942F00-5C3A-42CD-97C8-023830864946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9942F00-5C3A-42CD-97C8-023830864946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9942F00-5C3A-42CD-97C8-023830864946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9942F00-5C3A-42CD-97C8-023830864946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B953EB40-39DA-4196-90C1-47E589129169}.Debug|Any CPU.ActiveCfg = Debug
+		{B953EB40-39DA-4196-90C1-47E589129169}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8791C3C7-23A4-496D-B92E-8B6B7BDBBA59}
+	EndGlobalSection
+EndGlobal

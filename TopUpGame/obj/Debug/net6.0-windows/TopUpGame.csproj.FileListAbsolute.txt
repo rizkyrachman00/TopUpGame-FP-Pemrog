@@ -1,0 +1,189 @@
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.AssemblyReference.cache
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.MainMenu.resources
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.GenerateResource.cache
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfoInputs.cache
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfo.cs
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CoreCompileInputs.cache
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.exe
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.deps.json
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.runtimeconfig.json
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CopyComplete
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\refint\TopUpGame.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.genruntimeconfig.cache
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\ref\TopUpGame.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Properties.Resources.resources
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.ListGame.resources
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Pembelian.resources
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.RiwayatPembelian.resources
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP Pemrog Lanjut\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.exe
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.deps.json
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.runtimeconfig.json
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.AssemblyReference.cache
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Properties.Resources.resources
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.ListGame.resources
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.MainMenu.resources
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Pembelian.resources
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.RiwayatPembelian.resources
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.GenerateResource.cache
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfoInputs.cache
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfo.cs
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CoreCompileInputs.cache
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CopyComplete
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\refint\TopUpGame.dll
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.genruntimeconfig.cache
+D:\FP Pemrog Lanjut - Copy\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\ref\TopUpGame.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.exe
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.deps.json
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.runtimeconfig.json
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.pdb
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.AssemblyReference.cache
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Properties.Resources.resources
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.ListGame.resources
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.MainMenu.resources
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Pembelian.resources
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.RiwayatPembelian.resources
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.GenerateResource.cache
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfoInputs.cache
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfo.cs
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CoreCompileInputs.cache
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CopyComplete
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.dll
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\refint\TopUpGame.dll
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.pdb
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.genruntimeconfig.cache
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\ref\TopUpGame.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.exe
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame.mdf
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame_log.ldf
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.deps.json
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.runtimeconfig.json
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.pdb
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.AssemblyReference.cache
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Properties.Resources.resources
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.ListGame.resources
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.MainMenu.resources
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Pembelian.resources
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.RiwayatPembelian.resources
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.GenerateResource.cache
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfoInputs.cache
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfo.cs
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CoreCompileInputs.cache
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CopyComplete
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\refint\TopUpGame.dll
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.pdb
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.genruntimeconfig.cache
+C:\Users\rizkyrachman_\Downloads\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\ref\TopUpGame.dll
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame.mdf
+D:\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame_log.ldf
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.FrmBuatAkun.resources
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.FrmLogin.resources
+D:\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.FrmMenuUtama.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame.mdf
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame_log.ldf
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.exe
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.deps.json
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.runtimeconfig.json
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.AssemblyReference.cache
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Properties.Resources.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.FrmBuatAkun.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.FrmLogin.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.ListGame.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.MainMenu.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Pembelian.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.RiwayatPembelian.resources
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.GenerateResource.cache
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfoInputs.cache
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfo.cs
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CoreCompileInputs.cache
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CopyComplete
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\refint\TopUpGame.dll
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.genruntimeconfig.cache
+D:\FP PEMROG LANJUT\FP no setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\ref\TopUpGame.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame.mdf
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\Model\Repository\DB_TopUpGame_log.ldf
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.exe
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.deps.json
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.runtimeconfig.json
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.AssemblyReference.cache
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Properties.Resources.resources
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.FrmBuatAkun.resources
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.FrmLogin.resources
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.ListGame.resources
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.MainMenu.resources
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.Pembelian.resources
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.RiwayatPembelian.resources
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.GenerateResource.cache
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfoInputs.cache
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.AssemblyInfo.cs
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CoreCompileInputs.cache
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.csproj.CopyComplete
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\refint\TopUpGame.dll
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.pdb
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\TopUpGame.genruntimeconfig.cache
+D:\FP PEMROG LANJUT\FP with setup\TopUpGame\TopUpGame\obj\Debug\net6.0-windows\ref\TopUpGame.dll
